@@ -23,14 +23,8 @@
     <a href="#about">About me</a>
     <a href="#portfolio">portfolio</a>
     <a href="#contact">Contact me</a>
+
 </nav>
-<div class="follow">
-<a href="#" class="fab fa-facebook"></a>
-<a href="#" class="fab fa-twitter"></a>
-<a href="#" class="fab fa-instagram"></a>
-<a href="#" class="fab fa-linkedin"></a> 
-<a href="#" class="fab fa-github"></a> 
-</div>
 
 
 </header>

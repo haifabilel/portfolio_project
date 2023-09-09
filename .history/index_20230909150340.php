@@ -29,7 +29,7 @@
 <a href="#" class="fab fa-twitter"></a>
 <a href="#" class="fab fa-instagram"></a>
 <a href="#" class="fab fa-linkedin"></a> 
-<a href="#" class="fab fa-github"></a> 
+<a href="#" class="fab fa-"></a> 
 </div>
 
 
