@@ -19,7 +19,7 @@
 }
 *{
     background-color: var(--white);
-  
+    color:var(--pink);
 }
 *::-webkit-scrollbar{
     height:.5rem;
@@ -36,13 +36,6 @@ html{
     overflow-x:hidden;
     scroll-behavior:smooth;
 }
-section{
-    padding:3rem 2rem;
-    margin:0 auto;
-    max-width:1200px;
-    text-align: center;
-
-}
 body{
  overflow:hidden;
  transition:.2s linear !important;      
@@ -51,7 +44,6 @@ body{
 body.active{
   padding-left: 35rem;
 }
-
 /* <!-- Body Section Ends --> */
 /* <!-- Header Section Starts --> */
 .header{
@@ -86,7 +78,6 @@ body.active{
 .header .follow a{
     font-size:2.5rem;
     margin:0 1rem;  
-    color:#8a427d;
 }
 .header .follow a:hover{
     transform: scale(2.1);
@@ -108,47 +99,7 @@ body.active{
 .header.active{
    left:0; 
 }
-/* Header Section Ends */
- /* Home Section Starts  */
-.home{
-    display:flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap:2rem;
-}
-h1{
-    font-size: 3.5rem;
-    text-transform:lowercase;
-}
- span{
-    color:#8a427d;
-    font-size: 2rem;
-}
-p{
-    font-size: 1.5rem; 
-}
-.home .image img{
-    height:45rem;
-    padding:2rem;
-    margin:30px;
-    border:2px solid black;
-}
-.home .image{
-    flex:1 1 40rem;
-}
-.home .content{
-    flex:1 1 40rem;  
-}
-
-
- /* Home Section Ends */
-
-
-
-
-
-
-
+/* <!-- Header Section Ends --> */
 
 /* media queries */
 @media (max-widht:991px){
@@ -164,10 +115,8 @@ p{
     html{
         font-size: 50%;
     }
-    .header.active{
+    header{
         padding-top:7rem;
     }
-    #menu-btn.fa-times{
-        left:0;
-    }
+    #
 }

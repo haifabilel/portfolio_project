@@ -43,7 +43,7 @@
     <h1>Welcome, i am hayfa</h1>
     <span>Web Developper</span>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat in molestias fuga voluptatem qui reiciendis vero doloribus consequatur recusandae! Natus.</p>
-    <a href="#about" class="btn">About me</a>
+    <a href="#about"></a>
  </div>
 </section>
 

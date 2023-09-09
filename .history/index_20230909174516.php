@@ -33,21 +33,9 @@
 <a href="#" class="fab fa-linkedin"></a> 
 <a href="#" class="fab fa-github"></a> 
 </div>
-</header>
-<!-- Home Section Starts -->
-<section class="home" id="home">
-    <div class="image">
-        <img src="asset/photo-femme.jpg" alt="photo-femme">
-    </div>
- <div class="content">
-    <h1>Welcome, i am hayfa</h1>
-    <span>Web Developper</span>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat in molestias fuga voluptatem qui reiciendis vero doloribus consequatur recusandae! Natus.</p>
-    <a href="#about" class="btn">About me</a>
- </div>
-</section>
 
-<!-- Home Section Ends -->
+
+</header>
 
 
 

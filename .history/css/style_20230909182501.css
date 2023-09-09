@@ -86,7 +86,6 @@ body.active{
 .header .follow a{
     font-size:2.5rem;
     margin:0 1rem;  
-    color:#8a427d;
 }
 .header .follow a:hover{
     transform: scale(2.1);
@@ -117,8 +116,7 @@ body.active{
     gap:2rem;
 }
 h1{
-    font-size: 3.5rem;
-    text-transform:lowercase;
+    font-size: 2rem;
 }
  span{
     color:#8a427d;
@@ -128,16 +126,10 @@ p{
     font-size: 1.5rem; 
 }
 .home .image img{
-    height:45rem;
+    height:65rem;
     padding:2rem;
-    margin:30px;
     border:2px solid black;
-}
-.home .image{
-    flex:1 1 40rem;
-}
-.home .content{
-    flex:1 1 40rem;  
+
 }
 
 
