@@ -15,11 +15,11 @@
 
 <!-- Header Section Ends -->
 <header class="header">
-   <a href="#home" class="logo">
+#menu-btn.fas.fa
+
+    <a href="#home" class="logo">
        <img src="asset/logo.png" alt="image-logo" style="height: 170px;">
     </a>
-
-    <div id="menu-btn" class="fas fa-bars"></div>
 <nav class="navbar">
     <a href="#home">Home</a>
     <a href="#about">About me</a>

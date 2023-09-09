@@ -67,17 +67,14 @@ body{
     margin:.5rem;
     display:block;
 }
-
+.header .navbar a.active,
 .header .navbar a:hover{
- background-color: #f0aae46b;
- transform: scale(1.2);
+    background-color: #f0aae46b;
+    color:var(--white);
 }
 .header .follow a{
-    font-size:2.5rem;
-    margin:0 1rem;  
-}
-.header .follow a:hover{
-    transform: scale(2.1);
+    font-size:3rem;
+    margin:
 }
 
 /* <!-- Header Section Ends --> */
