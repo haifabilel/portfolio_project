@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600&family=EB+Garamond:wght@400;500;600&family=Lora:ital@1&family=Nanum+Myeongjo:wght@400;700;800&family=Poppins:ital,wght@1,200;1,300;1,400;1,500&display=swap');
+:root{
+    --black:#000;
+    -white:#fff;
+    --pink:#cc59a6;
+    --light-bg:#eccbe1;
+    --border-bold:.4rem solid var(--black);
+    --box--shadow:7px 6px 5px 0px rgba(0,0,0,0.4);
+}
+*{
+    font-family: EB Garamond 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
