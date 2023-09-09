@@ -2,7 +2,7 @@
 :root{
     --black:#000;
     -white:#fff;
-    --pink:#8e6787;
+    --pink:#b984ae;
     --light-bg:#eccbe1;
     --border-bold:.4rem solid var(--pink);
     --box--shadow:7px 6px 5px 0px rgba(0,0,0,0.4);
@@ -81,17 +81,7 @@ body{
 }
 #menu-btn{
    position: absolute; 
-   top:0; right:-5.5rem;
-   height:4.5rem;
-   line-height: 4.5rem;
-   width:5rem;
-   font-size: 3rem;
-   cursor: pointer;
-   color: var(--white);
-}
-.logo{
-    margin-top: -30px;
-    height: 190px;
+   top:0; right:.5
 }
 
 /* <!-- Header Section Ends --> */

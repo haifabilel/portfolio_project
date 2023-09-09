@@ -18,7 +18,7 @@
 <div id="menu-btn" class="fas fa-bars"></div>
 
     <a href="#home" class="logo">
-       <img src="asset/logo.png" class="logo" alt="image-logo">
+       <img src="asset/logo.png" alt="image-logo" style="height: 170px;">
     </a>
 <nav class="navbar">
     <a href="#home">Home</a>

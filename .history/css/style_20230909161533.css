@@ -81,17 +81,13 @@ body{
 }
 #menu-btn{
    position: absolute; 
-   top:0; right:-5.5rem;
+   top:0; right:0;
    height:4.5rem;
-   line-height: 4.5rem;
+   
    width:5rem;
    font-size: 3rem;
    cursor: pointer;
    color: var(--white);
-}
-.logo{
-    margin-top: -30px;
-    height: 190px;
 }
 
 /* <!-- Header Section Ends --> */
