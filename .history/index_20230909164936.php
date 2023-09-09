@@ -21,7 +21,7 @@
        <img src="asset/logo.png" class="logo" alt="image-logo">
     </a>
 <nav class="navbar">
-    <a href="#home"class="active">Home</a>
+    <a href="#home" acti>Home</a>
     <a href="#about">About me</a>
     <a href="#portfolio">portfolio</a>
     <a href="#contact">Contact me</a>

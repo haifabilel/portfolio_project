@@ -41,7 +41,7 @@ body{
  transition:.2s linear !important;      
  text-align: center; 
 }
-body.active{
+body .active{
   padding-left: 35rem;
 }
 /* <!-- Body Section Ends --> */
@@ -96,8 +96,8 @@ body.active{
     margin-top: -30px;
     height: 190px;
 }
-.header.active{
-   left:0; 
+.header .active{
+   left:35rem; 
 }
 /* <!-- Header Section Ends --> */
 

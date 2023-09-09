@@ -41,14 +41,11 @@ body{
  transition:.2s linear !important;      
  text-align: center; 
 }
-body.active{
-  padding-left: 35rem;
-}
 /* <!-- Body Section Ends --> */
 /* <!-- Header Section Starts --> */
 .header{
     position:fixed;
-    top:0;left:-35rem;
+    top:0;left:0;
     height:100vh;
     background-color:var(--white);
     border-right:var(--border-bold);
@@ -70,7 +67,7 @@ body.active{
     margin:.5rem;
     display:block;
 }
-.header .navbar a.active,
+
 .header .navbar a:hover{
  background-color: #f0aae46b;
  transform: scale(1.2);
@@ -96,8 +93,8 @@ body.active{
     margin-top: -30px;
     height: 190px;
 }
-.header.active{
-   left:0; 
+.header .active{
+    
 }
 /* <!-- Header Section Ends --> */
 

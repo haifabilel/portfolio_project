@@ -41,8 +41,8 @@ body{
  transition:.2s linear !important;      
  text-align: center; 
 }
-body.active{
-  padding-left: 35rem;
+body .active{
+  padding-left:  
 }
 /* <!-- Body Section Ends --> */
 /* <!-- Header Section Starts --> */
@@ -70,7 +70,7 @@ body.active{
     margin:.5rem;
     display:block;
 }
-.header .navbar a.active,
+
 .header .navbar a:hover{
  background-color: #f0aae46b;
  transform: scale(1.2);
@@ -96,7 +96,7 @@ body.active{
     margin-top: -30px;
     height: 190px;
 }
-.header.active{
+.header .active{
    left:0; 
 }
 /* <!-- Header Section Ends --> */
