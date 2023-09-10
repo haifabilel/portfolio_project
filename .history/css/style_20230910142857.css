@@ -60,15 +60,13 @@ body.active{
     height:100vh;
     background-color:var(--white);
     border-right:var(--border-bold);
-    width:35rem;
+    width:30rem;
     padding:3rem 2rem;
     text-align:center;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-flow: column;
-    transition:.2s linear !important; 
-    text-align: center;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-flow:column;
 }
 header .navbar{
     width: 100%;

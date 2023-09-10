@@ -45,8 +45,7 @@ section{
 }
 body{
  overflow: hidden;
- transition:.2s linear !important;      
- text-align: center; 
+ 
 }
 body.active{
   padding-left: 35rem;

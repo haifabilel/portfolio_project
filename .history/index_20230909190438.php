@@ -37,7 +37,7 @@
 <!-- Home Section Starts -->
 <section class="home" id="home">
     <div class="image">
-        <img src="asset/photo-femme.jpg" alt="photo-femme" class="image-profil" >
+        <img src="asset/photo-femme.jpg" alt="photo-femme" >
     </div>
  <div class="content">
     <h1>Welcome, i am hayfa</h1>

@@ -6,6 +6,7 @@
     <title>Portfolio</title>
     <!-- Font awesome cdn -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+   
     <!-- css link -->
     <link rel="stylesheet" href="css/style.css"
 </head>
@@ -36,7 +37,7 @@
 </header>
 <!-- Home Section Starts -->
 <section class="home" id="home">
-    <div class="image">
+    <div class="image ">
         <img src="asset/photo-femme.jpg" alt="photo-femme" class="image-profil" >
     </div>
  <div class="content">
