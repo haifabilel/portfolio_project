@@ -2,10 +2,8 @@
 :root{
     --black:#000;
     -white:#fff;
-    --pinkLight:#ce2a77;
     --pink:#8e6787;
     --light-bg:#eccbe1;
-    --light-bg2:#dccad8ab;
     --border-bold:.4rem solid var(--pink);
     --box--shadow:7px 6px 5px 0px rgba(0,0,0,0.4);
 }
@@ -71,20 +69,18 @@ body.active{
     flex-flow: column;
     transition:.2s linear !important; 
     text-align: center;
-   
 }
 header .navbar{
     width: 100%;
-   
+    margin-top:-30px;
    
 }
 header .navbar a{
     text-decoration: none;
     font-size: 2.5rem;
     padding:1.5rem;
-    margin:3rem;
+    margin:.3rem;
     display:block;
-  
 }
 header .navbar a.active,
 header .navbar a:hover{
@@ -119,7 +115,6 @@ header.active{
 /* Header Section Ends */
  /* Home Section Starts  */
 .home{
-    margin-top:-50px;
     display:flex;
     align-items: center;
     flex-wrap:wrap;
@@ -163,42 +158,15 @@ p{
 }
 .btn:hover{
     transform: scale(1.1);
-    transition: 0.5s;
+    transition: 0.5s;;
 }
 /* Home Section Ends */
 /* About section starts */
-h2{
-    margin-top: -80px;
-    margin-bottom:3rem;
-    text-align: center;
-    font-size: 3.5rem;
-    color: var(--pinkLight);
-    background-color: var(--light-bg);
+.myBio{
+    margin-bottom
 
 }
-h3{
-    font-size: 2rem;
-}
-.biography p{
-    margin:1rem auto;
-    max-width:70rem;
-    line-height:1.5rem;
-    font-size:1.7rem;
-    font-size: large;
-}
-.biography{
-    margin-top: 1rem;
-}
-.biography h3{
-    padding:1rem 1.5rem;
-    display: inline-block;
-    margin:1rem;
-    background-color:var(--light-bg2);
-    word-break:break-all;
-    font-size:2rem;
-    border:1px solid var(--black);
 
-}
 
 
 /* About section ends */
@@ -218,7 +186,6 @@ h3{
     body .active{
         padding-left: 0;
     }
-    
 }
 
 @media (max-widht:450px){
@@ -234,11 +201,7 @@ h3{
     .home .image img{
      height:auto;
      width:100%;
+    
 
     }
-    .biography h3{
-        font-size: 1.5rem;
-        
-    }
-   
 }

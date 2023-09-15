@@ -5,7 +5,6 @@
     --pinkLight:#ce2a77;
     --pink:#8e6787;
     --light-bg:#eccbe1;
-    --light-bg2:#dccad8ab;
     --border-bold:.4rem solid var(--pink);
     --box--shadow:7px 6px 5px 0px rgba(0,0,0,0.4);
 }
@@ -180,25 +179,14 @@ h3{
     font-size: 2rem;
 }
 .biography p{
+    font-size:2.5rem;
     margin:1rem auto;
     max-width:70rem;
     line-height:1.5rem;
     font-size:1.7rem;
-    font-size: large;
 }
-.biography{
-    margin-top: 1rem;
-}
-.biography h3{
-    padding:1rem 1.5rem;
-    display: inline-block;
-    margin:1rem;
-    background-color:var(--light-bg2);
-    word-break:break-all;
-    font-size:2rem;
-    border:1px solid var(--black);
+.m
 
-}
 
 
 /* About section ends */
@@ -235,10 +223,6 @@ h3{
      height:auto;
      width:100%;
 
-    }
-    .biography h3{
-        font-size: 1.5rem;
-        
     }
    
 }

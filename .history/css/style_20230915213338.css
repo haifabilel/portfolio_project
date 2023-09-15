@@ -193,7 +193,7 @@ h3{
     padding:1rem 1.5rem;
     display: inline-block;
     margin:1rem;
-    background-color:var(--light-bg2);
+    background-color:var();
     word-break:break-all;
     font-size:2rem;
     border:1px solid var(--black);
@@ -235,10 +235,6 @@ h3{
      height:auto;
      width:100%;
 
-    }
-    .biography h3{
-        font-size: 1.5rem;
-        
     }
    
 }

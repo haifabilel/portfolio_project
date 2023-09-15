@@ -48,15 +48,14 @@
 <!-- Home Section Ends -->
 <!-- about Section Starts -->
 <section class="about"  id="about">
-    <h2 class="myBio">Biography</h2>
+    <h2>Biography</h2>
     <div class="biography">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Fugiat quas quis eius cupiditate ducimus ut id maxime sunt nobis magni? </p>
-        <h3> Name : CHAABI Hayfa </h3>
-        <h3> Email: developper@gmail.com </h3>
-        <h3> Adresse: Paris, France </h3>
-        <h3> Phone: 060202222 </h3>
-        <h3> Experience: 3 yars of experience </h3>
+    <h3> name : CHAABI Hayfa </h3>
+    <h3> email: developper@gmail.com </h3>
+    <h3> adresse: Paris, France </h3>
+    <h3> email: developper@gmail.com </h3>
 
     </div>
 
