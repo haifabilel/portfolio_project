@@ -256,13 +256,7 @@ padding:1rem;
  .titre{
     padding: 1.5rem;
     font-size:2rem;
-    background-color:var(--light-bg2);
- }
- .box h4{
-    font-size:2rem;
- }
- .box span{
-    font-size:2rem;
+    background-color:#ce2a77;
  }
 
 

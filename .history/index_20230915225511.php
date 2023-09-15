@@ -72,36 +72,19 @@
      <h2 class="myskills">Education & Experience</h2>
     <div class="row">
         <div class="box_container">
-            <h3 class="titre">Education</h3>
+            <h3 class="education">Education</h3>
             <div class="box">
                 <span>(2011-2014)</span>
                 <h4>Administraion des affaires</h4>
                 <p>Lorem ipsum, dolor sit amet consectetur 
-                    adipisicing elit.</p>
+                    adipisicing elit. Vel, et!</p>
             </div>
 
             <div class="box">
                 <span>(2022-2023)</span>
                 <h4>Develeppement Web et Web mobile</h4>
                 <p>Lorem ipsum, dolor sit amet consectetur 
-                    adipisicing elit.</p>
-            </div>
-        </div>
-
-        <div class="box_container">
-            <h3 class="titre">Experience</h3>
-            <div class="box">
-                <span>(2014-2021)</span>
-                <h4>Gestionnaire de portfeuille</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur 
-                    adipisicing elit.</p>
-            </div>
-
-            <div class="box">
-                <span>(2022-2023)</span>
-                <h4>Developpeuse Web</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur 
-                    adipisicing elit.</p>
+                    adipisicing elit. Vel, et!</p>
             </div>
         </div>
     </div>

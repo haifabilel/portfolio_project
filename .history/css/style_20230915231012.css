@@ -249,20 +249,12 @@ padding:1rem;
  }
  .box{
     text-align: left;
-    margin:1rem 0;
-    padding:2rem;
-
+    margin:
  }
  .titre{
     padding: 1.5rem;
     font-size:2rem;
-    background-color:var(--light-bg2);
- }
- .box h4{
-    font-size:2rem;
- }
- .box span{
-    font-size:2rem;
+    background-color:#ce2a77;
  }
 
 

@@ -240,29 +240,8 @@ padding:1rem;
  /* My Skills part ends */
  /* Education & Experience part starts */
  .education_experienes .row{
-    display:flex;
-    flex-wrap: wrap;
-    gap:1.5rem;
- }
- .row .box_container{
-   flex:1 1 40rem; 
- }
- .box{
-    text-align: left;
-    margin:1rem 0;
-    padding:2rem;
+    display:
 
- }
- .titre{
-    padding: 1.5rem;
-    font-size:2rem;
-    background-color:var(--light-bg2);
- }
- .box h4{
-    font-size:2rem;
- }
- .box span{
-    font-size:2rem;
  }
 
 

@@ -40,7 +40,7 @@
     </div>
  <div class="content">
     <h1>Welcome, i am hayfa</h1>
-    <p class="developper">Web Developper</p>
+    <span>Web Developper</span>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat in molestias fuga voluptatem qui reiciendis vero doloribus consequatur recusandae! Natus.</p>
     <a href="#about" class="btn">About me</a>
  </div>
@@ -59,52 +59,11 @@
         <h3> Experience: 3 years </h3>
     </div>
 <div class="skills">
-<h2 class="myskills">My Skills</h2>
+<h2 class="myskills">Skills</h2>
 <div class="progress">
-    <div class="bar"><h3><span>HTML</span><span>90%</span></h3></div>
-    <div class="bar"><h3><span>CSS</span><span>90%</span></h3></div>
-    <div class="bar"><h3><span>PHP</span><span>70%</span></h3></div>
-    <div class="bar"><h3><span>MYSQL</span><span>75%</span></h3></div>
-</div>
+    .
 </div>
 
-<div class="education_experienes">
-     <h2 class="myskills">Education & Experience</h2>
-    <div class="row">
-        <div class="box_container">
-            <h3 class="titre">Education</h3>
-            <div class="box">
-                <span>(2011-2014)</span>
-                <h4>Administraion des affaires</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur 
-                    adipisicing elit.</p>
-            </div>
-
-            <div class="box">
-                <span>(2022-2023)</span>
-                <h4>Develeppement Web et Web mobile</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur 
-                    adipisicing elit.</p>
-            </div>
-        </div>
-
-        <div class="box_container">
-            <h3 class="titre">Experience</h3>
-            <div class="box">
-                <span>(2014-2021)</span>
-                <h4>Gestionnaire de portfeuille</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur 
-                    adipisicing elit.</p>
-            </div>
-
-            <div class="box">
-                <span>(2022-2023)</span>
-                <h4>Developpeuse Web</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur 
-                    adipisicing elit.</p>
-            </div>
-        </div>
-    </div>
 </div>
 </section>
 <!-- about Section Ends -->

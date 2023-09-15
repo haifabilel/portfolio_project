@@ -119,7 +119,7 @@ header.active{
 /* Header Section Ends */
  /* Home Section Starts  */
 .home{
-    margin-top:-70px;
+    margin-top:-50px;
     margin-bottom: -50px;
     display:flex;
     align-items: center;
@@ -131,10 +131,10 @@ h1{
     font-size: 5rem;
     text-transform:capitalize;
 }
-
-.developper{
+ span{
     color:#8a427d;
-    font-size: 4rem;  
+    font-size: 4rem;
+   
 }
 p{
     font-size: 2rem; 
@@ -197,73 +197,9 @@ h3{
     background-color:var(--light-bg2);
     word-break:break-all;
     font-size:2rem;
-    border:3px solid var(--black);
-}
-/* My Skills part starts */
-.about .skills{
-    margin:3rem 0;
-    
-}
-.skills .progress{
-  margin-top: 1rem;  
-}
-.skills .progress .bar{
-margin:1rem auto;
-max-width: 70rem;
-border:2px solid black;
-padding:1rem;
-
+    border:1px solid var(--black);
 
 }
-.bar span{
- font-size: 2rem;    
-}
-.skills .progress .bar h3{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: var(--light-bg2); 
-    padding: 1rem;  
-}
-.skills .progress .bar:nth-child(1) h3{
-   width:90%; 
-}
-.skills .progress .bar:nth-child(2) h3{
-    width:85%; 
- }
- .skills .progress .bar:nth-child(3) h3{
-    width:70%; 
- }
- .skills .progress .bar:nth-child(4) h3{
-    width:75%; 
- }
- /* My Skills part ends */
- /* Education & Experience part starts */
- .education_experienes .row{
-    display:flex;
-    flex-wrap: wrap;
-    gap:1.5rem;
- }
- .row .box_container{
-   flex:1 1 40rem; 
- }
- .box{
-    text-align: left;
-    margin:1rem 0;
-    padding:2rem;
-
- }
- .titre{
-    padding: 1.5rem;
-    font-size:2rem;
-    background-color:var(--light-bg2);
- }
- .box h4{
-    font-size:2rem;
- }
- .box span{
-    font-size:2rem;
- }
 
 
 /* About section ends */

@@ -89,7 +89,7 @@
         </div>
 
         <div class="box_container">
-            <h3 class="titre">Experience</h3>
+            <h3 class="Experience">Experience</h3>
             <div class="box">
                 <span>(2014-2021)</span>
                 <h4>Gestionnaire de portfeuille</h4>
