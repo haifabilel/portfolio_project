@@ -113,7 +113,10 @@
 <h2 class="myservice">Services</h2>
 <div class="box-container">
     <div class="box">
-        <h3>Developpement Front End (HTML/CSS/BBOTSTRAP/JS)</h3>
+        <h3>Developpement Front End 
+        <i class="fa-brands fa-html5"></i>
+        <i class="fa-brands fa-css3-alt"></i>
+        </h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>

@@ -7,7 +7,7 @@
     <!-- Font awesome cdn -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <!-- css link -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css"
 </head>
 <body>
 <!-- Header Section Starts -->
@@ -113,7 +113,9 @@
 <h2 class="myservice">Services</h2>
 <div class="box-container">
     <div class="box">
-        <h3>Developpement Front End (HTML/CSS/BBOTSTRAP/JS)</h3>
+        <h3>Developpement Front End 
+            <i class="fab fas-html"></i>
+        </h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
