@@ -113,35 +113,40 @@
 <h2 class="myservice">Services</h2>
 <div class="box-container">
     <div class="box">
-        <h3>Developpement Front End (HTML/CSS/JAVASCIPT)</h3>
+        <i class="fas fa-paint-brush"></i>
+        <h3>Developpement Front End </h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
 
     <div class="box">
-        <h3>Develeloppement Back End (PHP/SYMFONY/MYSQL)</h3>
+        <i class="fas fa-code"></i>
+        <h3>Develeloppement Back End</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
 
     <div class="box">
-        <h3>La maintenance du produit après développement</h3>
+        <i class="fas fa-code"></i>
+        <h3>la maintenance du produit après développement</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
     <div class="box">
-       
-        <h3>Le test et l’intégration en continu les solutions web</h3>
+        <i class="fas fa-code"></i>
+        <h3>le test et l’intégration en continu les solutions web</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
     <div class="box">
-        <h3>La configuration et l’entretien des serveurs d’hébergements</h3>
+        <i class="fas fa-code"></i>
+        <h3>la configuration et l’entretien des serveurs d’hébergements</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
     <div class="box">
-        <h3>La configuration et l’entretien des serveurs d’hébergements</h3>
+        <i class="fas fa-code"></i>
+        <h3>la configuration et l’entretien des serveurs d’hébergements</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>

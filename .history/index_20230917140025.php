@@ -131,17 +131,17 @@
     </div>
     <div class="box">
        
-        <h3>Le test et l’intégration en continu les solutions web</h3>
+        <h3>le test et l’intégration en continu les solutions web</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
     <div class="box">
-        <h3>La configuration et l’entretien des serveurs d’hébergements</h3>
+        <h3>la configuration et l’entretien des serveurs d’hébergements</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
     <div class="box">
-        <h3>La configuration et l’entretien des serveurs d’hébergements</h3>
+        <h3>la configuration et l’entretien des serveurs d’hébergements</h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti quo qui quisquam laboriosam repellendus tempore, 
             suscipit numquam. Laborum, quisquam nam.</p>
     </div>
